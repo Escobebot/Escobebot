@@ -2,7 +2,7 @@
 
 💻 Desarrollador y entusiasta de la **ciberseguridad**.  
 🚀 Apasionado por crear soluciones seguras, modernas y eficientes.  
-🌐 Fundador de **[Lynqer.dev](https://lynqer.dev)** — desarrollo de software, auditoría y consultoría TI.  
+
 
 ---
 
@@ -22,27 +22,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📂 Proyectos destacados
-- 🧩 **PDF Splitter GUI** – Aplicación en Python con interfaz moderna para dividir y previsualizar PDF.  
-- 🔎 **Scanner Web** – Herramienta para detectar vulnerabilidades básicas en sitios web.  
-- 💬 **AutoWhats** – Automatizador de mensajes en WhatsApp con PyAutoGUI.  
-
----
-
-### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=edduescobedo&show_icons=true&theme=tokyonight)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=edduescobedo&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Conecta conmigo
-🌐 [Sitio web](https://lynqer.dev)  
-💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
-📧 eddu.escobedo@example.com  
-
----
 
 > “El conocimiento es poder, pero el código bien escrito es libertad.” ⚡
 
