@@ -46,10 +46,5 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=edduescobedo&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=edduescobedo&layout=compact&theme=tokyonight)
-
 
 > “Hackea el conocimiento, no los sistemas.” 🧠🔐
