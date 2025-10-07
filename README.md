@@ -1,11 +1,9 @@
-# 👋 ¡Hola! Soy Eddu Escobedo  
+# 👋 ¡Hola! 👋
 
 🧑‍💻 **Especialista en Ciberseguridad y Desarrollo Seguro**  
 🔍 Apasionado por la **seguridad ofensiva**, la **defensa digital** y la **automatización** de tareas con Python.   
 
 ---
-
-## 🛡️ Acerca de mí
 
 - 🔐 Enfocado en la **seguridad ofensiva y defensiva** (Red Team / Blue Team).  
 - 🧠 Estudiando **ciberinteligencia, análisis forense** y **pentesting ético**.  
