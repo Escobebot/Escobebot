@@ -1,4 +1,10 @@
+<div align="center">
+
 # 🧑‍💻 Especialista en Ciberseguridad & Desarrollo Seguro  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Seguridad+Ofensiva+%26+Defensiva;DevSecOps+%26+Desarrollo+Seguro;Automatización+en+Ciberseguridad;Red+Team+%7C+Blue+Team+%7C+Purple+Team)](https://git.io/typing-svg)
+
+</div>
 
 Profesional orientado a la **protección, auditoría y mejora de sistemas informáticos**, combinando la **seguridad ofensiva, defensiva y el desarrollo seguro**.  
 Mi trabajo se centra en el análisis de vulnerabilidades, la implementación de controles de seguridad y la automatización de procesos mediante el uso de **Python**, **Bash** y tecnologías **DevSecOps**.
@@ -19,6 +25,8 @@ Mi enfoque integra la visión técnica de un **pentester** con la precisión ana
 
 ## 🧰 Tecnologías y herramientas
 
+<div align="center">
+
 ### 💻 Lenguajes y entornos
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -38,6 +46,8 @@ Mi enfoque integra la visión técnica de un **pentester** con la precisión ana
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+</div>
+
 ---
 
 ## ⚔️ Proyectos de seguridad destacados
@@ -55,6 +65,20 @@ Busco generar impacto mediante soluciones que integren **inteligencia, análisis
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3sc0b0t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3sc0b0t&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3sc0b0t&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## 🌱 En formación continua
 Actualmente profundizando en:
 - **DevSecOps y Seguridad en entornos CI/CD**  
@@ -64,3 +88,17 @@ Actualmente profundizando en:
 
 > _“La ciberseguridad no es un estado, es un proceso continuo de mejora, aprendizaje y adaptación.”_  
 > **— Eddu Escobedo**
+
+---
+
+<div align="center">
+
+### 💭 Filosofía profesional centrada en la mejora continua
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=3sc0b0t&color=blueviolet&style=for-the-badge&label=Visitas+al+Perfil)
+
+**Conectemos** 🤝 | **Colaboremos** 💡 | **Construyamos** 🔐
+
+</div>
